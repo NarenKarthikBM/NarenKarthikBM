@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Clubcaddy**, a golf club management software, using **Django, django-rest-framework, react, nextjs 14** hosted on **AWS**
+- 🔭 I’m currently working on **Clubcaddy**, a golf club management software, using **Django, django-rest-framework, react, nextjs 15** hosted on **AWS**
 
 - ☁️ I love to design cloud infrastructure on **AWS**
 
