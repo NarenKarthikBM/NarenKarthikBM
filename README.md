@@ -1,104 +1,72 @@
+# Hi there, I'm Naren Karthik! 👋
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🌍 Earth & Environmental Sciences Student | 💻 Full-Stack Developer
+*Passionate about bridging the gap between Climate Science and Modern Web Technology.*
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi, I'm B M Naren Karthik👋</h1></summary>
-  </ul>
+[![](./horizontal-divider-gradiant.md)](#)
+
+## ⚡ Stats & Contributions
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NarenKarthikBM&show_icons=true&theme=radical&hide_border=true" alt="Naren's Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarenKarthikBM&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
 </div>
 
+<!-- <br /> -->
 
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">No Bugs Please</h2></summary>
-  </ul>
+<!-- <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarenKarthikBM&theme=radical&hide_border=true" alt="Streak Stats" />
+</div> -->
+
+[![](./horizontal-divider-gradiant.md)](#)
+
+## 🚀 About Me
+
+I am a fourth-year **BS-MS student at IISER Bhopal** with a unique interdisciplinary background. My work focuses on building tangible technological solutions for environmental challenges. I specialize in **Climate Modeling**, **Geospatial Analysis**, and **Computational Fluid Dynamics (CFD)**, while maintaining a strong portfolio in **Full-Stack Web Development** with Next.js and Django.
+
+- 🔭 I’m currently working on **Climate Impact Workbench (CLIWO)**, an AI-driven platform for climate assessment.
+- 🌱 I’m currently learning **Advanced CFD Frameworks** and **Serverless Architectures**.
+- 💬 Ask me about **Next.js, Django, Climate Data Operators (CDO), and AWS**.
+- 📫 How to reach me: [naren22@iiserb.ac.in](mailto:naren22@iiserb.ac.in) or [narenkarthikbm@narenwebworks.in](mailto:narenkarthikbm@narenwebworks.in)
+
+[![](./horizontal-divider-gradiant.md)](#)
+
+## 🛠️ Technical Expertise
+
+| Domain | Skills & Tools |
+| :--- | :--- |
+| **Full-Stack Dev** | **JavaScript** (Next.js, Node.js, React Native), **Python** (Django, Flask, FastAPI) |
+| **Cloud & DevOps** | **AWS** (Lambda, RDS, Amplify, EC2), PostgreSQL, MongoDB |
+| **Climate Analysis** | **CDO** (Climate Data Operators), **Python-CDO**, Xarray, NumPy, Pandas |
+| **Geospatial & GIS** | QGIS/ArcGIS, Leaflet, GeoPandas, Matplotlib |
+
+[![](./horizontal-divider-gradiant.md)](#)
+
+## 💻 Currently Working on
+
+### 🐍 [python-cdo-wrapper](https://github.com/NarenKarthikBM/python-cdo-wrapper) | *Author*
+A modern Python wrapper for Climate Data Operators (CDO) capable of building complex pipelines with query chaining and seamless Xarray integration.
+- **Impact:** Serves as the core backend infrastructure for the *Climate Impact Workbench (CLIWO)* platform, enabling efficient lazy execution of climate models.
+- **Tech:** Python, CDO, Xarray.
+
+### ⛳ **ClubCaddy** | *Founder & Full-Stack Developer*
+Architected a club management solution used by major associations like the **TamilNadu Golf Federation**.
+- **Impact:** Scaled to support thousands of members; digitized booking and tournament management workflows.
+- **Tech:** Django, PostgreSQL, Next.js, AWS (Lambda, RDS).
+
+### 🛒 **VendoLoco** | *Co-Founder & Developer*
+A secure local marketplace for the university community.
+- **Impact:** Enabled hundreds of students to trade campus essentials within a trusted network.
+- **Tech:** Django, PostgreSQL, Next.js, AWS.
+
+[![](./horizontal-divider-gradiant.md)](#)
+
+## 🏆 Awards & Honors
+
+- 🥇 **Winner, ArmaCode 2025**: Built *Planora*, an end-to-end event management software, in a 24-hour hackathon at IISER Bhopal.
+- 🥉 **3rd Place, StatusCode2 (2025)**: Secured third place in the Vultr track at the 36-hour hackathon by IISER Kolkata & IIIT Kalyani.
+
+---
+<div align="center">
+  <i>Last updated: December 2025</i>
 </div>
-
-
-<!--Intro start-->
-- 🔭 I’m currently working on **Clubcaddy**, a golf club management software, using **Django, django-rest-framework, react, nextjs 15** hosted on **AWS**
-
-- ☁️ I love to design cloud infrastructure on **AWS**
-
-- 💬 Ask me about **AWS, react, django**
-
-- 📫 Feel free to reach me out **narenkarthikbm@narenwebworks.in** or **narenkarthikbm@gmail.com**
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://my-github-stats-rho.vercel.app/api?username=NarenKarthikBM&theme=synthwave&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NarenKarthikBM&theme=dark&hide_border=false&count_private=true" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://my-github-stats-rho.vercel.app/api/top-langs/?username=NarenKarthikBM&theme=synthwave&hide_border=false&no-bg=true&no-frame=true&langs_count=5&"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=NarenKarthikBM&theme=synthwave&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,aws,c,html,css,vscode,nginx,py,django,postman,rabbitmq,redis,react,ts,nextjs,figma&perline=14" />
-  </a>
-</p>
-
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<!-- <a href="https://www.linkedin.com/in/1010nishant/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://twitter.com/1010nishant" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234980676-61bfb021-ecc8-48f7-88e6-34c1b06c4a58.png" alt="twitter" height="50" width="50" /></a>  -->
-<a href="https://www.instagram.com/narenkarthikbm/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-<!-- <a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a> -->
-<!-- <a href="https://discord.gg/UjwKkJsXsf" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a> -->
-  
-</p>
-
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
