@@ -22,7 +22,7 @@
 
 ## 🚀 About Me
 
-I am a fourth-year **BS-MS student at IISER Bhopal** with a unique interdisciplinary background. My work focuses on building tangible technological solutions for environmental challenges. I specialize in **Climate Modeling**, **Geospatial Analysis**, and **Computational Fluid Dynamics (CFD)**, while maintaining a strong portfolio in **Full-Stack Web Development** with Next.js and Django.
+I am a fourth-year **BS-MS student at IISER Bhopal** with a unique interdisciplinary background. My work focuses on building tangible technological solutions for environmental challenges. I am interested in **Climate Modeling**, **Geospatial Analysis** and **Computational Fluid Dynamics (CFD)**, while maintaining a strong portfolio in **Full-Stack Web Development** with Next.js and Django.
 
 - 🔭 I’m currently working on **Climate Impact Workbench (CLIWO)**, an AI-driven platform for climate assessment.
 - 🌱 I’m currently learning **Advanced CFD Frameworks** and **Serverless Architectures**.
