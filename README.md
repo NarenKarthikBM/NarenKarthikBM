@@ -1,4 +1,4 @@
-# Hi there, I'm Naren Karthik! 👋
+# Hi there, I'm Naren! 👋
 
 ### 🌍 Earth & Environmental Sciences Student | 💻 Full-Stack Developer
 *Passionate about Climate Science and Modern Web Technology.*
