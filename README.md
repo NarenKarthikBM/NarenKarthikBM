@@ -1,7 +1,7 @@
 # Hi there, I'm Naren Karthik! 👋
 
 ### 🌍 Earth & Environmental Sciences Student | 💻 Full-Stack Developer
-*Passionate about bridging the gap between Climate Science and Modern Web Technology.*
+*Passionate about Climate Science and Modern Web Technology.*
 
 [![](./horizontal-divider-gradiant.md)](#)
 
