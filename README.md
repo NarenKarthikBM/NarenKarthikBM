@@ -22,10 +22,10 @@
 
 ## 🚀 About Me
 
-I am a fourth-year **BS-MS student at IISER Bhopal** with a unique interdisciplinary background. My work focuses on building tangible technological solutions for environmental challenges. I am interested in **Climate Modeling**, **Geospatial Analysis** and **Computational Fluid Dynamics (CFD)**, while maintaining a strong portfolio in **Full-Stack Web Development** with Next.js and Django.
+Hello, I am a fourth-year **BS-MS student at IISER Bhopal** with a unique interdisciplinary background. My work focuses on building tangible technological solutions for environmental challenges. I am interested in **Climate Sciences** especially using Deep Learning techniques in modelling and forecasting, while maintaining a strong skillset developing **Full-Stack Applications** with Next.js, Django and React Native.
 
-- 🔭 I’m currently working on **Climate Impact Workbench (CLIWO)**, an AI-driven platform for climate assessment.
-- 🌱 I’m currently learning **Advanced CFD Frameworks** and **ML in climate sciences**.
+- 🔭 I’m currently working on **CDO-Flow**, a workflow orchestration CLI tool and **Clubcaddy** mobile app.
+- 🌱 I’m currently learning **ML/DL in climate sciences**.
 - 💬 Ask me about **Next.js, Django, Climate Data Operators (CDO) and AWS**.
 - 📫 How to reach me: [naren22@iiserb.ac.in](mailto:naren22@iiserb.ac.in) or [narenkarthikbm@narenwebworks.in](mailto:narenkarthikbm@narenwebworks.in)
 
@@ -37,8 +37,8 @@ I am a fourth-year **BS-MS student at IISER Bhopal** with a unique interdiscipli
 | :--- | :--- |
 | **Full-Stack Dev** | **JavaScript** (Next.js, Node.js, React Native), **Python** (Django, Flask, FastAPI) |
 | **Cloud & DevOps** | **AWS** (Lambda, RDS, Amplify, EC2), PostgreSQL, Vercel, CI/CD |
-| **Climate Analysis** | **CDO** (Climate Data Operators), **Python-CDO**, Xarray, NumPy, Pandas |
-| **Geospatial & GIS** | QGIS/ArcGIS, Leaflet, GeoPandas, Matplotlib |
+| **Climate Analysis** | **CDO** (Climate Data Operators), **Python**, Xarray, NumPy, Pandas |
+| **Geospatial & GIS** | QGIS, Leaflet, GeoPandas, Matplotlib |
 
 [![](./horizontal-divider-gradiant.md)](#)
 
@@ -47,6 +47,11 @@ I am a fourth-year **BS-MS student at IISER Bhopal** with a unique interdiscipli
 ### 🐍 [python-cdo-wrapper](https://github.com/NarenKarthikBM/python-cdo-wrapper) | *Author*
 A modern Python wrapper for Climate Data Operators (CDO) capable of building complex pipelines with query chaining and seamless Xarray integration.
 - **Impact:** Open-source python library for elegant and efficient use of CDO in python saving time for climate scientists.
+- **Tech:** Python, CDO, Xarray.
+
+### 🛠️ [cdo-flow](https://github.com/NarenKarthikBM/cdo-flow) | *Author*
+A Python based orchestration toolking built on top of python-cdo-wrapper designed to build reusable CDO workflow.
+- **Impact:** Open-source python library for building modular and reusable CDO pipelines for climate scientists.
 - **Tech:** Python, CDO, Xarray.
 
 ### ⛳ **ClubCaddy** | *Founder & Full-Stack Developer*
@@ -68,5 +73,5 @@ A secure local marketplace for the university community.
 
 ---
 <div align="center">
-  <i>Last updated: December 2025</i>
+  <i>Last updated: May 2026</i>
 </div>
